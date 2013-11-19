@@ -2871,7 +2871,7 @@ $json = ob_end_clean();
 
           <para>The field map settings allow you to map specific magic field
           names to your table's fields, in case you do not use FOF's
-          contentions. It works the same way as adding setting the
+          conventions. It works the same way as adding setting the
           <varname>_columnAlias</varname> array in your specialized Table
           class.</para>
 
